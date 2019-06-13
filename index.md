@@ -9,6 +9,9 @@ title: Aki Rohades CV
 | <a href="https://www.photobyaki.com/">Photography Portfolio </a>
 </div>
 
+## Overview
+Versatile and motivated worker focused on creating good outcomes for organizations. Patient communicator and team player who has efficiently managed executive calendars, events, teams of young adults, and young children.
+
 ## Skillset
 
 - Event Planning & Management
@@ -24,16 +27,17 @@ title: Aki Rohades CV
 
 `2016-present`
 __Nanny, Lowell MA__
-* Responsible for creating and finding activities every day
-* Simultaneously cleaned, cooked and raised two toddlers
+* Daily care of two children from infancy to preschool.
+* Planned, scheduled, and managed on-site and off-site educational activities throughout the week.
+* Assisted with cleaning, cooking, and coverage when needed.
 
 `2012-2015`
 __Los Angeles Dream Center / Ministry Coordinator and Student Leader, Los Angeles__
 
-* Performed 20+ hours of physical service weekly in underserved communities
-* Assisted Director of Ministries as liaison to site staff
-* Established relationships and evaluated the development of 25 students throughout program annually
-* Coordinated and executed event logistics and attendance
+* Performed 20+ hours of physical service weekly in underserved communities.
+* Assisted Director of Ministries as liaison to site staff.
+* Established relationships and evaluated the development of 25 students throughout program annually.
+* Planned, coordinated, and executed events.
 
 ## Education
 
