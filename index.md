@@ -1,91 +1,52 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aki Rohades CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aki Rhoades
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="akirhoades@gmail.com">akirhoades@gmail.com</a>
+| <a href="https://www.photobyaki.com/">Photography Portfolio </a>
 </div>
 
+## Skillset
 
-## Currently
+- Event Planning & Management
+- Scheduling & Administrative Management
+- Early Childhood Development
+- At-risk Youth Support & Education
+- Photography & Videography
+- Digital Asset Management
+- Digital Content Management
+- Web & Graphic Design
 
-Standing on the shoulders of giants
+## Experience
 
-### Specialized in
+`2016-present`
+__Nanny, Lowell MA__
+* Responsible for creating and finding activities every day
+* Simultaneously cleaned, cooked and raised two toddlers
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2012-2015`
+__Los Angeles Dream Center / Ministry Coordinator and Student Leader, Los Angeles__
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+* Performed 20+ hours of physical service weekly in underserved communities
+* Assisted Director of Ministries as liaison to site staff
+* Established relationships and evaluated the development of 25 students throughout program annually
+* Coordinated and executed event logistics and attendance
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2013`
+__Dream Center Leadership School, Los Angeles__
+- A two-year leadership development program at the world-renowned Los Angeles Dream Center. Welcomed onto staff following graduation. 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2009-2011`
+__College of the Canyons, Santa Clarita__
+- Studied film and digital photography. 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2019 -->
 
 
