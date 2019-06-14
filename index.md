@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Aki Rohades CV
+title: Aki Rhoades
 ---
 # Aki Rhoades
 
@@ -10,7 +10,7 @@ title: Aki Rohades CV
 </div>
 
 ## Overview
-Dependable team player focused on equity and increasing access to opportunities for children and at-risk communities. Patient communicator and collaborator willing to jump in where needed. Digital native with a diverse creative and administrative skillset.
+Dependable team player focused on equitable access to opportunities for children and at-risk communities. Patient communicator and collaborator willing to jump in where needed. Digital native with a diverse creative and administrative skillset.
 
 ## Skillset
 
