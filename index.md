@@ -10,12 +10,12 @@ title: Aki Rohades CV
 </div>
 
 ## Overview
-Versatile and motivated worker focused on creating good outcomes for organizations. Patient communicator and team player who has efficiently managed executive calendars, events, teams of young adults, and young children.
+Dependable team player focused on equity and increasing access to opportunities for children and at-risk communities. Patient communicator and collaborator willing to jump in where needed. Digital native with a diverse creative and administrative skillset.
 
 ## Skillset
 
 - Event Planning & Management
-- Scheduling & Administrative Management
+- Scheduling & Staff Management
 - Early Childhood Development
 - At-risk Youth Support & Education
 - Photography & Videography
@@ -29,25 +29,30 @@ Versatile and motivated worker focused on creating good outcomes for organizatio
 __Nanny, Lowell MA__
 * Daily care of two children from infancy to preschool.
 * Planned, scheduled, and managed on-site and off-site educational activities throughout the week.
-* Assisted with cleaning, cooking, and coverage when needed.
+* Assisted with cleaning, cooking, and coverage when needed. 
+
+`2011-present`
+__Photo by Aki / Event & Family Photography__
+* Perform photography for multiple genres including event, wedding, headshots and portraits.
+* Managed digital asset library of photos for delivery, archival, backup, and editing of client photos and video.
 
 `2012-2015`
 __Los Angeles Dream Center / Ministry Coordinator and Student Leader, Los Angeles__
-
-* Performed 20+ hours of physical service weekly in underserved communities.
-* Assisted Director of Ministries as liaison to site staff.
-* Established relationships and evaluated the development of 25 students throughout program annually.
-* Planned, coordinated, and executed events.
+* Worked directly on the ground, logging 20+ hours a week in at-risk, underserved, and homeless communities.
+* Provided fresh food and basic needs to underserved communities in food deserts.
+* Assisted Director of Ministries as liaison to site staff, managing schedules, meetings, and team performance.
+* Established relationships, monitored, and managed the development of 25+ student classes.
+* Regularly planned, coordinated, and managed events for 100+ attendees.
 
 ## Education
 
 `2011-2013`
 __Dream Center Leadership School, Los Angeles__
-- A two-year leadership development program at the world-renowned Los Angeles Dream Center. Welcomed onto staff following graduation. 
+- Completed a two-year leadership development program at the world-renowned Los Angeles Dream Center. Welcomed onto staff following graduation. 
 
 `2009-2011`
 __College of the Canyons, Santa Clarita__
-- Studied film and digital photography. 
+- Studied film and digital photography.
 
 <!-- ### Footer
 
