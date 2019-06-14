@@ -5,8 +5,8 @@ title: Aki Rohades CV
 # Aki Rhoades
 
 <div id="webaddress">
-<a href="aki.rhoades@gmail+jobs.com">aki.rhoades@gmail.com</a>
-| <a href="https://www.photobyaki.com/">Photography Portfolio </a>
+<a href="mailto:aki.rhoades@gmail+jobs.com">aki.rhoades@gmail.com</a>
+| <a href="https://akirhoades.com/">akirhoades.com</a> | <a href="https://www.photobyaki.com/">photobyaki.com</a>
 </div>
 
 ## Overview
